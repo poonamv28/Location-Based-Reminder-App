@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "822518477301",
+    "project_id": "location-based-reminder-387616",
+    "storage_bucket": "location-based-reminder-387616.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822518477301:android:1a3b758f91ae9c97e8b0bc",
+        "android_client_info": {
+          "package_name": "com.mertcansegmen.locationbasedreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822518477301-c6tp1rblqqv6nqica9vc1ic4krpjbibl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mertcansegmen.locationbasedreminder",
+            "certificate_hash": "91772bcf9341ed253dbae4428a226ca13c7a02e9"
+          }
+        },
+        {
+          "client_id": "822518477301-nn0q468t5db1d4ecpas0qisup7n91kes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1A157WoPXFlCl9RjBZnL4G6Q00livqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822518477301-nn0q468t5db1d4ecpas0qisup7n91kes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
